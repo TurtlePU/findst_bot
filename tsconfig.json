@@ -3,6 +3,7 @@
         "esModuleInterop": true,
         "strict": true,
         "lib": ["ES2019.Array"],
-        "downlevelIteration": true
+        "downlevelIteration": true,
+        "baseUrl": "src"
     }
 }
